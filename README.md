@@ -1,7 +1,7 @@
 # React Random Chat App
 
 ## Basic Info
-This Application loads a chatroom that anonymous users can contribute to via a web interface
+This Application loads a chatroom that anonymous users can contribute to via a web interface.
 
 ## Setup Details
 This project uses React as the front end and Firebase firestore as the backend. 
